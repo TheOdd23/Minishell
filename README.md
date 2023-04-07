@@ -2,7 +2,7 @@
 
 The goal of minishell is exactly like the name says, recreating a minimalistic shell (in teams of 2).
 
-We had to implement redirections <, <<, > and >> and pipes | , 7 builtins(echo, cd, pwd, export, unset, env and exit), handle environment variables, single and double quotes, etc.
+We had to implement redirections <, <<, > and >> and pipes | , 7 builtins(echo, cd, pwd, export, unset, env and exit), handle environment variables, single and double quotes and way more.
 
 Like the real shell, our program needed to react accordingly to signals such as ctrl-d and ctrl-c.
 
